@@ -2,7 +2,7 @@
   "name": "shoppingcart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/KekoFigueroa-dev/e-plantShopping.git",
+  "homepage": "https://kekofigueroa-dev.github.io/e-plantShopping/",
   "type": "module",
   "scripts": {
     "dev": "vite",
